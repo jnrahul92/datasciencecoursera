@@ -1,0 +1,16 @@
+---
+title: "HelloWorld"
+author: "Rahul Jain"
+date: "21/06/2021"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## THis is a Markdown file
+
+```{r cars}
+print("Hello World")
+```
